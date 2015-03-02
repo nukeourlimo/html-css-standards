@@ -15,7 +15,7 @@
 
 ###Markup Standards
 
-Please visit http://diveintohtml5.info/semantics.html#new-elements for detailed descrition of HTML5 elements.  It makes sense to use these where relevent as can prevent additional css classes, such as, where relevent: "article"
+Please visit http://diveintohtml5.info/semantics.html#new-elements for detailed descrition of HTML5 elements.  It makes sense to use these where relevent as can prevent additional css classes, such as, "article"
 
 ####Headings
 
@@ -44,5 +44,3 @@ For more information the following site is a good starting point http://patternl
 * Nest any element modifiers in the element using the & symbol in SCSS where necessary
 * Media Queries should appear directly in the element
 * Start with mobile first, then you may only need one or two media queries to modify the layout for larger sizes
-
-* 
