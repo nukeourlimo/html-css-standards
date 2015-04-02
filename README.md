@@ -40,7 +40,7 @@ For more information the following site is a good starting point http://patternl
 
 ###General CSS(SCSS) rules
 
-* Indent everything correctly using a single tab, i like the tab to be 4 spaces wide to give clear definition when nesting
+* Indent everything correctly using a single tab, i like indentation to appear 4 spaces wide(but be a tab) to give clear definition when nesting
 * Nest any element modifiers in the element using the & symbol in SCSS where necessary
 * Media Queries should appear directly in the element
 * Start with mobile first, then you may only need one or two media queries to modify the layout for larger sizes
