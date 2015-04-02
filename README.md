@@ -44,3 +44,4 @@ For more information the following site is a good starting point http://patternl
 * Nest any element modifiers in the element using the & symbol in SCSS where necessary
 * Media Queries should appear directly in the element
 * Start with mobile first, then you may only need one or two media queries to modify the layout for larger sizes
+* Use a mixin for transitions or the following format ```transition: $prop $timing $ease $delay```
